@@ -8,6 +8,7 @@ namespace hello
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I tebe ne hvorat'!");
+            Console.WriteLine("dop izmeneniya");
             Console.ReadKey();
         }
     }
